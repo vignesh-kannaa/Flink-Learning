@@ -1,0 +1,70 @@
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] - --------------------------------------------------------------------------------
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -  Starting Command Line Client (Version: 1.11.1, Scala: 2.12, Rev:7eb514a, Date:2020-07-15T07:02:09+02:00)
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -  OS current user: vigne
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -  Current Hadoop/Kerberos user: <no hadoop dependency found>
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -  JVM: Java HotSpot(TM) 64-Bit Server VM - Oracle Corporation - 1.8/25.202-b08
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -  Maximum heap size: 2692 MiBytes
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -  JAVA_HOME: "C:/Program Files/Java/jdk1.8.0_202"
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -  No Hadoop Dependency available
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -  JVM Options:
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -     -Dlog.file=D:/Project/Flink/flink-1.11.1/log/flink--client-VigneshKannaa.log
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -     -Dlog4j.configuration=D:\Project\Flink\flink-1.11.1\conf/log4j-cli.properties
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -     -Dlog4j.configurationFile=D:\Project\Flink\flink-1.11.1\conf/log4j-cli.properties
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -     -Dlogback.configurationFile=D:\Project\Flink\flink-1.11.1\conf/logback.xml
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -  Program Arguments:
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -     run
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -     D:\Project\Flink\flink-1.11.1/examples/streaming/WordCount.jar
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -     --input
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -     D:Project/Flink/Code/Datasets/Words.txt
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -     --output
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -     D:Project/Flink/Code/Outputs/wordCount.txt
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] -  Classpath: D:\Project\Flink\flink-1.11.1\lib\flink-csv-1.11.1.jar;D:\Project\Flink\flink-1.11.1\lib\flink-json-1.11.1.jar;D:\Project\Flink\flink-1.11.1\lib\flink-shaded-zookeeper-3.4.14.jar;D:\Project\Flink\flink-1.11.1\lib\flink-table_2.12-1.11.1.jar;D:\Project\Flink\flink-1.11.1\lib\flink-table-blink_2.12-1.11.1.jar;D:\Project\Flink\flink-1.11.1\lib\log4j-1.2-api-2.12.1.jar;D:\Project\Flink\flink-1.11.1\lib\log4j-api-2.12.1.jar;D:\Project\Flink\flink-1.11.1\lib\log4j-core-2.12.1.jar;D:\Project\Flink\flink-1.11.1\lib\log4j-slf4j-impl-2.12.1.jar;D:\Project\Flink\flink-1.11.1\lib\flink-dist_2.12-1.11.1.jar
+2024-08-04 15:37:22,701 INFO  org.apache.flink.client.cli.CliFrontend                      [] - --------------------------------------------------------------------------------
+2024-08-04 15:37:22,701 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: jobmanager.rpc.address, localhost
+2024-08-04 15:37:22,701 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: jobmanager.rpc.port, 6123
+2024-08-04 15:37:22,701 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: jobmanager.memory.process.size, 1600m
+2024-08-04 15:37:22,701 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: taskmanager.memory.process.size, 1728m
+2024-08-04 15:37:22,701 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: taskmanager.numberOfTaskSlots, 1
+2024-08-04 15:37:22,701 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: parallelism.default, 1
+2024-08-04 15:37:22,701 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: jobmanager.execution.failover-strategy, region
+2024-08-04 15:37:22,701 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: rest.port, 8081
+2024-08-04 15:37:22,701 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: env.java.home, "C:/Program Files/Java/jdk1.8.0_202"
+2024-08-04 15:37:22,722 INFO  org.apache.flink.client.cli.CliFrontend                      [] - Loading FallbackYarnSessionCli
+2024-08-04 15:37:22,748 INFO  org.apache.flink.core.fs.FileSystem                          [] - Hadoop is not in the classpath/dependencies. The extended set of supported File Systems via Hadoop is not available.
+2024-08-04 15:37:22,777 INFO  org.apache.flink.runtime.security.modules.HadoopModuleFactory [] - Cannot create Hadoop Security Module because Hadoop cannot be found in the Classpath.
+2024-08-04 15:37:22,779 INFO  org.apache.flink.runtime.security.modules.JaasModule         [] - Jaas file will be created as C:\Users\vigne\AppData\Local\Temp\jaas-7825079173989860145.conf.
+2024-08-04 15:37:22,786 INFO  org.apache.flink.runtime.security.contexts.HadoopSecurityContextFactory [] - Cannot install HadoopSecurityContext because Hadoop cannot be found in the Classpath.
+2024-08-04 15:37:22,786 INFO  org.apache.flink.client.cli.CliFrontend                      [] - Running 'run' command.
+2024-08-04 15:37:22,793 INFO  org.apache.flink.client.cli.CliFrontend                      [] - Building program from JAR file
+2024-08-04 15:37:22,801 INFO  org.apache.flink.client.ClientUtils                          [] - Starting program (detached: false)
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: jobmanager.rpc.address, localhost
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: jobmanager.rpc.port, 6123
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: jobmanager.memory.process.size, 1600m
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: taskmanager.memory.process.size, 1728m
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: taskmanager.numberOfTaskSlots, 1
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: parallelism.default, 1
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: jobmanager.execution.failover-strategy, region
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: rest.port, 8081
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: env.java.home, "C:/Program Files/Java/jdk1.8.0_202"
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: jobmanager.rpc.address, localhost
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: jobmanager.rpc.port, 6123
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: jobmanager.memory.process.size, 1600m
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: taskmanager.memory.process.size, 1728m
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: taskmanager.numberOfTaskSlots, 1
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: parallelism.default, 1
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: jobmanager.execution.failover-strategy, region
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: rest.port, 8081
+2024-08-04 15:37:22,825 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: env.java.home, "C:/Program Files/Java/jdk1.8.0_202"
+2024-08-04 15:37:22,837 INFO  org.apache.flink.api.java.typeutils.TypeExtractor            [] - class org.apache.flink.streaming.api.functions.source.TimestampedFileInputSplit does not contain a setter for field modificationTime
+2024-08-04 15:37:22,837 INFO  org.apache.flink.api.java.typeutils.TypeExtractor            [] - Class class org.apache.flink.streaming.api.functions.source.TimestampedFileInputSplit cannot be used as a POJO type because not all fields are valid POJO fields, and must be processed as GenericType. Please read the Flink documentation on "Data Types & Serialization" for details of the effect on performance.
+2024-08-04 15:37:22,900 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: jobmanager.rpc.address, localhost
+2024-08-04 15:37:22,900 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: jobmanager.rpc.port, 6123
+2024-08-04 15:37:22,900 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: jobmanager.memory.process.size, 1600m
+2024-08-04 15:37:22,900 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: taskmanager.memory.process.size, 1728m
+2024-08-04 15:37:22,900 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: taskmanager.numberOfTaskSlots, 1
+2024-08-04 15:37:22,900 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: parallelism.default, 1
+2024-08-04 15:37:22,900 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: jobmanager.execution.failover-strategy, region
+2024-08-04 15:37:22,900 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: rest.port, 8081
+2024-08-04 15:37:22,900 INFO  org.apache.flink.configuration.GlobalConfiguration           [] - Loading configuration property: env.java.home, "C:/Program Files/Java/jdk1.8.0_202"
+2024-08-04 15:37:22,964 INFO  org.apache.flink.configuration.Configuration                 [] - Config uses fallback configuration key 'jobmanager.rpc.address' instead of key 'rest.address'
+2024-08-04 15:37:23,848 INFO  org.apache.flink.configuration.Configuration                 [] - Config uses fallback configuration key 'jobmanager.rpc.address' instead of key 'rest.address'
