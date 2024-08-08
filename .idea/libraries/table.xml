@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="table">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/table/ChangelogSocketExample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/table/StreamSQLExample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/table/StreamWindowSQLExample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/table/WordCountTable.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/table/WordCountSQL.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/table/TPCHQuery3Table.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/table/StreamTableExample.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

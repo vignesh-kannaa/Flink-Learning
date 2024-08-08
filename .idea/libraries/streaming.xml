@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="streaming">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/streaming/StateMachineExample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/streaming/IncrementalLearning.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/streaming/SocketWindowWordCount.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/streaming/TopSpeedWindowing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/streaming/Iteration.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/streaming/WordCount.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/streaming/SessionWindowing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/streaming/WindowJoin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/streaming/Twitter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

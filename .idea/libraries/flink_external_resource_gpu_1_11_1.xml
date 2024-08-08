@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flink-external-resource-gpu-1.11.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/plugins/external-resource-gpu/flink-external-resource-gpu-1.11.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

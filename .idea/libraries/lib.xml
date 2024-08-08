@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/lib/flink-table_2.12-1.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/lib/flink-shaded-zookeeper-3.4.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/lib/flink-json-1.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/lib/log4j-slf4j-impl-2.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/lib/flink-table-blink_2.12-1.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/lib/log4j-core-2.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/lib/flink-dist_2.12-1.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/lib/log4j-1.2-api-2.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/lib/flink-csv-1.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/lib/log4j-api-2.12.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

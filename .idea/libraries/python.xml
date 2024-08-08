@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="python">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/opt/python/pyflink.zip!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/opt/python/py4j-0.10.8.1-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/opt/python/cloudpickle-1.2.2-src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

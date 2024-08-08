@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flink-gelly-examples_2.12-1.11.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/gelly/flink-gelly-examples_2.12-1.11.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

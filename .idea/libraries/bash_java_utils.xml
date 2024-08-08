@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bash-java-utils">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/bin/bash-java-utils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

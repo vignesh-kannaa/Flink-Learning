@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flink-metrics-slf4j-1.11.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/plugins/metrics-slf4j/flink-metrics-slf4j-1.11.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

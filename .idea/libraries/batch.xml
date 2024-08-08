@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="batch">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/batch/EnumTriangles.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/batch/TransitiveClosure.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/batch/WebLogAnalysis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/batch/KMeans.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/batch/ConnectedComponents.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/batch/WordCount.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/batch/DistCp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flink-1.11.1/examples/batch/PageRank.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
